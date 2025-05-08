@@ -1,2 +1,3 @@
-# Haniya-Fatima-Portfolio-2025
-This is my new portfolio 
+# Haniya-portfolio
+This is my portfolio.
+It has my projects as well as contact section included.I made this project using HTML, CSS, and Bootstrap.
